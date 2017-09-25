@@ -24,8 +24,8 @@ headers = {
     'Connection': 'Keep-Alive',
     'Host': 'tj.lianjia.com',
     'Pragma': 'no-cache',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko',
-    'Cookie': 'all-lj=a861b873ac6b29c6817f75aa3a912370; _qzjc=1; _qzja=1.1334541350.1479275281226.1479350392762.1479785233398.1479785294899.1479785301073.0.0.0.47.7; CNZZDATA1253477573=598657296-1479271695-http%253A%252F%252Fbj.lianjia.com%252F%7C1479784772; CNZZDATA1254525948=1642846995-1479272901-http%253A%252F%252Fbj.lianjia.com%252F%7C1479780537; CNZZDATA1255633284=2082800512-1479275216-http%253A%252F%252Fbj.lianjia.com%252F%7C1479781473; CNZZDATA1255604082=1057172454-1479270081-http%253A%252F%252Fbj.lianjia.com%252F%7C1479783106; _qzjto=7.1.0; _qzjb=1.1479785233397.7.0.0.0; _jzqc=1; select_city=110000; lianjia_uuid=fff1a0ac-447a-4c53-a796-f6efb62d4d8e; _ga=GA1.2.637715374.1479274941; _jzqa=1.3209821080351464000.1479274943.1479350393.1479785233.8; _jzqckmp=1; _smt_uid=582bf1bf.6f98c22; Hm_lvt_efa595b768cc9dc7d7f9823368e795f1=1479274956,1479785237; _jzqx=1.1479275281.1479344966.2.jzqsr=bj%2Elianjia%2Ecom|jzqct=/.jzqsr=passport%2Elianjia%2Ecom|jzqct=/cas/login; lianjia_token=2.000a8933e6701108c51b241ad733693a1f; lianjia_ssid=787849b6-7c7b-4b4a-b23e-a5682166662f; _gat=1; _gat_past=1; _gat_global=1; _gat_new_global=1; _gat_dianpu_agent=1; _jzqb=1.7.10.1479785233.1; Hm_lpvt_efa595b768cc9dc7d7f9823368e795f1=1479785237'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko'
+
 }
 
 proxy = [{u'http': u'119.23.161.182:3128'}
